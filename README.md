@@ -1,4 +1,4 @@
-#Machine Learning and Artificial Intelligence Course by UC Berkeley
+# Machine Learning and Artificial Intelligence Course by UC Berkeley
 
 This repository is authored by Patricia Lin for her class work for ML/AI course offered by UC Berkeley.
 
